@@ -72,3 +72,26 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
+ANSWER #10
+
+NO
+
+ANSWER #11
+
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/buckleyjoshua93-LAB/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+ANSWER # 12
+
+YES
+
+ANSWER #13
+
+. .. git-lab-2  README.md
+
